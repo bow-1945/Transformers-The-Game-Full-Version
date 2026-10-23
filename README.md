@@ -236,4 +236,4 @@ This repository serves as the official landing page for Transformers The Game. T
 **Get the most recent version of Transformers The Game today!**
 
 ---
-**Last updated:** 2026-10-22 22:51:43 UTC
+**Last updated:** 2026-10-23 01:06:24 UTC
